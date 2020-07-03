@@ -1,0 +1,4 @@
+This is an open source project and anyone can use this package or may try to add more features to the project.
+
+Author = Raj Kumar Kausik
+Email = rrajkukausik@gmail.com
